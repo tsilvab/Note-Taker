@@ -10,8 +10,13 @@ As a small business owner
 I want to be able to write and notes
 So that I can organize my thoughts and keep track of task I need to complete
 
-##Installations/Usage
+## Installations/Usage
 Package.json installed/ dependency: express.
 This application has a db.json file to store and retrieve notes using fs module.
 Saved notes are returned as JSON.
 Deployed through Heroku
+
+https://github.com/tsilvab/Note-Taker.git
+
+Walkthrough Video:
+https://drive.google.com/file/d/10Si7NbECsPOa9M2fvWs9POr2UxSHH5A6/view
