@@ -14,7 +14,7 @@ So that I can organize my thoughts and keep track of task I need to complete
 Package.json installed/ dependency: express.
 This application has a db.json file to store and retrieve notes using fs module.
 Saved notes are returned as JSON.
-Deployed through Heroku
+Deployed through Heroku: https://ancient-tor-82902.herokuapp.com
 
 https://github.com/tsilvab/Note-Taker.git
 
